@@ -1,0 +1,13 @@
+#scrollToTopBtn { 
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    z-index: 99;
+    padding: 10px;
+    background-color: #ffc107;
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+    border: solid;
+    font-family: 'Lexend', sans-serif;
+}
